@@ -66,7 +66,6 @@ $$\text{Porcentaje} = \frac{\text{Posición Mouse} - \text{Borde Contenedor}}{\t
 3. Abre tu archivo `index.html` en el navegador.
 
 ```javascript
-// Ejemplo de inicialización en tu script.js
 event();
 
 ```
